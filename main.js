@@ -6,6 +6,9 @@ const FULL_HEART = '♥'
 
 
 
+ 
+
+
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
